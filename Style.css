@@ -1,0 +1,30 @@
+body
+{
+    font-family: Arial;
+    background-color: #E6FF64;
+    text-align: center;
+}
+
+#main-container
+{
+    margin: 50px auto;
+    width: 350px;
+}
+
+table
+{
+    background-color: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td
+{
+    padding: 20px;
+}
+
+a
+{
+    text-decoration: none;
+}
